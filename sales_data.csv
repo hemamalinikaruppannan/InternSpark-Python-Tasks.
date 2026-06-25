@@ -1,0 +1,8 @@
+Product,Category,Price,Quantity
+Laptop,Electronics,1200,5
+Shirt,Clothing,25,20
+Headphones,Electronics,150,15
+Jeans,Clothing,50,12
+Chair,Furniture,200,8
+Shirt,Clothing,25,20
+Laptop,Electronics,,3
